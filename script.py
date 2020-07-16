@@ -76,7 +76,6 @@ def frequent_area(area_frequency):
     return count, area_name
 
 most_frequent_count, most_frequent_area = frequent_area(area_frequency)
-print(most_frequent_count)
 
 def most_lethal(hurricanes):
     count = 0
