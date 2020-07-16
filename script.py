@@ -146,6 +146,4 @@ def damage_scale(hurricanes):
     return new_dict
 
 damage_scaled = damage_scale(hurricanes)
-print(damage_scaled[5][k: v for k, v in damage_scaled.items()][0])
-
 
